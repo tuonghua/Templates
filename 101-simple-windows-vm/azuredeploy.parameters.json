@@ -3,16 +3,23 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "thstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "qwertyuiop1!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "th43234"
+    },
+    
+    "location": {
+      "value": "US WEST"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
